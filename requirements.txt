@@ -37,6 +37,7 @@ mdurl==0.1.2
 moviepy==1.0.3
 narwhals==1.5.3
 numpy==2.1.0
+openai==1.43.0
 packaging==24.1
 pandas==2.2.2
 pdfminer.six==20231228
