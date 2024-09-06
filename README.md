@@ -61,8 +61,8 @@ The project will be implemented using the following technologies:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/multitask-llm-applications.git
-   cd multitask-llm-applications
+   git clone https://github.com/raselmeya94/Multi-Task-LLM-Based-Web-Application.git
+   cd Multi-Task-LLM-Based-Web-Application
 
 2. **Install Dependencies**
 
