@@ -1,8 +1,11 @@
-# Multi-Task LLM Applications
+# Multi-Task LLM Web Application
 
 ## Overview
 
 This project aims to develop a multi-task application leveraging the power of Large Language Models (LLMs). The application will provide a variety of functionalities, allowing users to perform diverse tasks such as generating emails, summaries, audio and video summaries, answering questions, generating articles or blogs, and converting documents to text. The versatility of LLMs will enable users to streamline their workflow by using a single platform for multiple tasks.
+
+**Web Application:** [https://multi-task-llm-based-web-application.streamlit.app/](https://multi-task-llm-based-web-application.streamlit.app/)
+
 
 ## Features
 
